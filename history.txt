@@ -1,0 +1,183 @@
+    1  ls
+    2  cd Desktop
+    3  ls
+    4  cd  PeterPetros-Theron-606-tilde-project-tutorial-how-repo-projects-work-
+    5  ls
+    6  git checkout
+    7  git checkout -b Markdown_Project2
+    8  ls
+    9  git status
+   10  echo
+   11  ls
+   12  echo Markdown example.md
+   13  ls
+   14  git status
+   15  cat Markdown_Project2
+   16  cs..
+   17  git checkout
+   18  git checkout main
+   19  ls
+   20  cat Markdown example.md
+   21  echo Markdown example.md
+   22  vim Markdown example.md
+   23  ls
+   24  vi README.md
+   25  ls
+   26  cat Markdown example.md
+   27  cat README.md
+   28  cat 'Markdown example.md'
+   29  vi 'Markdown example.md'
+   30  cd -
+   31  ls
+   32  cd PeterPetros-Theron-606-tilde-project-tutorial-how-repo-projects-work-
+   33  ls
+   34  git checkout -b 'Markdown project2.md'
+   35  git checkout Markdown project2.md
+   36  git checkout "Markdown project2.md"
+   37  git -b checkout "Markdown project2.md"
+   38  git remote
+   39  git remote status
+   40  git remote add -t Markdown project2.md
+   41  ls
+   42  git remote add -t
+   43  git remote add -t <Markdown proect2.md>
+   44  git remote add -t <Markdown proect2>
+   45  git remote add [-t <Markdown project2>]
+   46  ls
+   47  git branch MarkdownProject2
+   48  ls
+   49  git checkout MarkdownProject2
+   50  git status
+   51  touch MarkdownProject2.md
+   52  ls
+   53  vi MarkdownProject2.md
+   54  ls
+   55  git status
+   56  git add MarkdownProject2.md
+   57  git status
+   58  git commit
+   59  git branch -a
+   60  git del Markdown_Project2
+   61  git --help
+   62  git rm Markdown_Project2
+   63  git branch -a
+   64  git rm branch Markdown_Project2
+   65  git rm branch Markdown_Project2
+   66  git checkout main
+   67  git branch -a
+   68  git branch -d Markdown_Project2
+   69  git branch -a
+   70  git status
+   71  git add .
+   72  git commit
+   73   git config --global user.email theronpeter10@gmail.com
+   74  git config --global user.name "Peter Theron"
+   75  git add .
+   76  git commit
+   77  git commit -m "Updated Mardown file"
+   78  ls
+   79  nano 'Markdown example.md'
+   80  ls
+   81  cd
+   82  cd Desktop
+   83  ls
+   84  cd Umuzi-bootcamp-repo
+   85  ls 
+   86  mkdir git-basic-exercises
+   87  ls
+   88  cd git-basic-exercises
+   89  ls -a
+   90  git init
+   91  git status
+   92  ls -a
+   93  touch README.md
+   94  ls
+   95  git log
+   96  git add
+   97  git add .
+   98  git status
+   99  git commit -m "initial commit"
+  100  git push
+  101  nano README.md
+  102  git log
+  103  cat README.md
+  104  nato README.md
+  105  nano README.md
+  106  git status
+  107  nano README.md
+  108  git add .
+  109  git commit - "second commit"
+  110  git commit -m "second commit"
+  111  nano README.md
+  112  git add .
+  113  git commit -m "third commit"
+  114  git log
+  115  git checkout 066534def2642a9942de7af5aad5b0e8660bdfec
+  116  git checkout
+  117  cat README.md
+  118  git checkout main
+  119  checkout main
+  120  git checkout main
+  121  ls
+  122  cd..
+  123  cd ..
+  124  git checkout main
+  125  ls
+  126  ls -a
+  127  cd  git-basic-exercises
+  128  cat README.md
+  129  git checkout 826f8ab41fca4de752c35554cdae0a5b3cc5e9e2
+  130  cat README.md
+  131  git checkout main
+  132  git checkout Main
+  133  git log
+  134  git branch
+  135  git branch master
+  136  cd master
+  137  git branch milkshake-flavours
+  138  cd milkshake-flavours
+  139  ls -a
+  140  git branch
+  141  git branch milkshake-flavours
+  142  cd
+  143  cd Desktop
+  144  ls
+  145  cd Umuzi-bootcamp-repo
+  146  git milkshake-flavours
+  147  ls
+  148  cd git-basic-exercises
+  149  ls
+  150  cd ..
+  151  git branch
+  152  ls
+  153  cd git-basic-exercises
+  154  git branches
+  155  git branch
+  156  git chechout master
+  157  git checkout master
+  158  git checkout milkshake-flavours
+  159  git branch
+  160  nano milkshakes.md
+  161  git status
+  162  git add .
+  163  git commit -m "added initial flavours"
+  164  git status
+  165  git log
+  166  git checkout main
+  167  git branch main
+  168  ls
+  169  cd ..
+  170  ls
+  171  cd git-basic-exercises
+  172  git checkout main
+  173  git branch
+  174  git rm master
+  175  git branch history
+  176  git checkout history
+  177  git log
+  178  git branch
+  179  git branch -d master
+  180  git branch
+  181  git log
+  182  git status
+  183  history > history.txt
